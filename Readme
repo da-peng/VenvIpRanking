@@ -1,0 +1,5 @@
+﻿# mongodb 查询命令
+db.getCollection('tag_name_watch_num_2019-5-9').aggregate([ { $group :  
+                         { _id : null,
+                           count : { $sum : "$count" } } }]);
+# 1344

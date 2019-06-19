@@ -1,0 +1,7 @@
+aiohttp==3.5.4
+beautifulsoup4==4.7.1
+jieba==0.39
+matplotlib==3.0.3
+numpy==1.16.3
+pandas==0.24.2
+pymongo==3.8.0
