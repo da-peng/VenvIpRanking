@@ -1,4 +1,4 @@
-aiohttp==3.5.4
+aiohttp==3.7.4
 beautifulsoup4==4.7.1
 jieba==0.39
 matplotlib==3.0.3
